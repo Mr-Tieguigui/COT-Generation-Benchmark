@@ -11,54 +11,54 @@
 ## Paper
 | Paper  | Description | Link |
 | ------------- | ------------- | -------------|
-| Generating Chain-of-Thoughts with a Pairwise-Comparison Approach to  Searching for the Most Promising Intermediate Thought  | - | [Axciv](https://arxiv.org/abs/2402.06918#:~:text=In%20this%20paper,%20motivated%20by%20Vapnik's)|
-| Tree of Thoughts: Deliberate Problem Solving with Large Language Models  | - | [Axciv](https://arxiv.org/abs/2305.10601)|
-| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  | - | [Axciv](https://arxiv.org/abs/2201.11903)|
-| Self-Consistency Improves Chain of Thought Reasoning in Language Models  | - | [Axciv](https://arxiv.org/abs/2203.11171#:~:text=Chain-of-thought%20prompting%20combined%20with)|
-| Large Language Model Guided Tree-of-Thought | - | [Axciv](https://arxiv.org/abs/2305.08291)|
+| Generating Chain-of-Thoughts with a Pairwise-Comparison Approach to  Searching for the Most Promising Intermediate Thought  | - | [arXiv](https://arxiv.org/abs/2402.06918#:~:text=In%20this%20paper,%20motivated%20by%20Vapnik's)|
+| Tree of Thoughts: Deliberate Problem Solving with Large Language Models  | - | [arXiv](https://arxiv.org/abs/2305.10601)|
+| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  | - | [arXiv](https://arxiv.org/abs/2201.11903)|
+| Self-Consistency Improves Chain of Thought Reasoning in Language Models  | - | [arXiv](https://arxiv.org/abs/2203.11171#:~:text=Chain-of-thought%20prompting%20combined%20with)|
+| Large Language Model Guided Tree-of-Thought | - | [arXiv](https://arxiv.org/abs/2305.08291)|
 
 
 
 ## Methods
 | Method  | Description | Link |
 | ------------- | ------------- | -------------|
-| Direct  | - | [Axciv]|
-| CoT  | - | [Axciv]|
-| SC-CoT  | - | [Axciv]|
-| SToT  | - | [Axciv]|
+| Direct  | - | [arXiv]|
+| CoT  | - | [arXiv]|
+| SC-CoT  | - | [arXiv]|
+| SToT  | - | [arXiv]|
 | ------------- | ------------- | -------------|
-| SC-SToT | - | [Axciv]|
-| Comp-SToT | - | [Axciv]|
-| SC-SToT | - | [Axciv]|
-| Back-SToT | - | [Axciv]|
-| C-ToT (Stand.) | - | [Axciv]|
-| C-ToT (Duel.) | - | [Axciv]|
+| SC-SToT | - | [arXiv]|
+| Comp-SToT | - | [arXiv]|
+| SC-SToT | - | [arXiv]|
+| Back-SToT | - | [arXiv]|
+| C-ToT (Stand.) | - | [arXiv]|
+| C-ToT (Duel.) | - | [arXiv]|
 
 
 ## Datasets
 | Dataset  | Description | Link |
 | ------------- | ------------- | -------------|
-| AQuA  | - | [Axciv]|
-| Gsm8k  | - | [Axciv]|
-| Coin Flip (OOD)  | - | [Axciv]|
-| BBH | - | [Axciv]|
-| CSQA | - | [Axciv]|
-| StrategyQA | - | [Axciv]|
-| Date | - | [Axciv]|
-| Sports | - | [Axciv]|
-| SayCan | - | [Axciv]|
+| AQuA  | - | [arXiv]|
+| Gsm8k  | - | [arXiv]|
+| Coin Flip (OOD)  | - | [arXiv]|
+| BBH | - | [arXiv]|
+| CSQA | - | [arXiv]|
+| StrategyQA | - | [arXiv]|
+| Date | - | [arXiv]|
+| Sports | - | [arXiv]|
+| SayCan | - | [arXiv]|
 
 
 
 ## Task
 | Task  | Description | Link |
 | ------------- | ------------- | -------------|
-| QA  | - | [Axciv]|
-| Game of 24  | - | [Axciv]|
-| Sudoku Puzzle | - | [Axciv]|
-| Arithmetic reasoning | - | [Axciv]|
-| Commonsense reasoning | - | [Axciv]|
-| Symbolic Reasoning | - | [Axciv]|
+| QA  | - | [arXiv]|
+| Game of 24  | - | [arXiv]|
+| Sudoku Puzzle | - | [arXiv]|
+| Arithmetic reasoning | - | [arXiv]|
+| Commonsense reasoning | - | [arXiv]|
+| Symbolic Reasoning | - | [arXiv]|
 
 
 
