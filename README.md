@@ -20,3 +20,29 @@ Paper:
 | Large Language Model Guided Tree-of-Thought | - | [Axciv](https://arxiv.org/abs/2305.08291)|
 
 
+
+
+
+
+Methods:
+
+| Method  | Description | Link |
+| ------------- | ------------- | -------------|
+| Direct  | - | [Axciv]|
+| CoT  | - | [Axciv]|
+| SC-CoT  | - | [Axciv]|
+| SToT  | - | [Axciv]|
+| ------------- | ------------- | -------------|
+| SC-SToT | - | [Axciv]|
+| Comp-SToT | - | [Axciv]|
+| SC-SToT | - | [Axciv]|
+| Back-SToT | - | [Axciv]|
+| C-ToT (Stand.) | - | [Axciv]|
+| C-ToT (Duel.) | - | [Axciv]|
+
+
+
+
+
+
+
