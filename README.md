@@ -3,8 +3,7 @@
 ## COT Survey
 
 [Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs](https://arxiv.org/abs/2404.15676v2#:~:text=Chain-of-Thought%20(CoT)%20has%20been%20a%20widely)
-
-
+[Navigate through Enigmatic Labyrinth  A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/abs/2309.15402#:~:text=Notably,%20recent%20studies%20have%20revealed)
 
 
 
@@ -42,6 +41,11 @@
 | Gsm8k  | - | [Axciv]|
 | Coin Flip (OOD)  | - | [Axciv]|
 | BBH | - | [Axciv]|
+| CSQA | - | [Axciv]|
+| StrategyQA | - | [Axciv]|
+| Date | - | [Axciv]|
+| Sports | - | [Axciv]|
+| SayCan | - | [Axciv]|
 
 
 
@@ -50,7 +54,15 @@
 | ------------- | ------------- | -------------|
 | QA  | - | [Axciv]|
 | Game of 24  | - | [Axciv]|
-| Sudoku Puzzle  | - | [Axciv]|
+| Sudoku Puzzle | - | [Axciv]|
+| Arithmetic reasoning | - | [Axciv]|
+| Commonsense reasoning | - | [Axciv]|
+| Symbolic Reasoning | - | [Axciv]|
+
+
+
+
+
 
 
 
