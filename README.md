@@ -253,8 +253,8 @@
             <th>Asdiv</th>
             <th>AQuA</th>
             <th>CSQA</th>
-            <th>StrategyQA</th>
-            <th>LastLetterConcat</th>
+            <th>Strategy<br>QA</th>
+            <th>LastLetter<br>Concat</th>
             <th>CoinFlip</th>
         </tr>
     </thead>
@@ -262,7 +262,7 @@
         <tr>
             <td>I-O Prompting~<cite>[1]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-002</td>
+            <td rowspan="5">text-davinci-002</td>
             <td>19.7</td>
             <td>69.9</td>
             <td>74</td>
@@ -275,7 +275,6 @@
         <tr>
             <td>Fewshot CoT~<cite>[2]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-002</td>
             <td>63.1</td>
             <td>76.4</td>
             <td>80.4</td>
@@ -288,7 +287,6 @@
         <tr>
             <td>PoT~<cite>[3]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-002</td>
             <td>80</td>
             <td>89.1</td>
             <td>-</td>
@@ -301,7 +299,6 @@
         <tr>
             <td>Complex CoT~<cite>[4]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-002</td>
             <td>72.6</td>
             <td>-</td>
             <td>-</td>
@@ -314,7 +311,6 @@
         <tr>
             <td>Automate CoT~<cite>[5]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-002</td>
             <td>49.7</td>
             <td>73.3</td>
             <td>74.2</td>
@@ -327,7 +323,7 @@
         <tr>
             <td>Fewshot CoT~<cite>[2]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-003</td>
+            <td rowspan="7">text-davinci-003</td>
             <td>66.83</td>
             <td>69.06</td>
             <td>-</td>
@@ -340,7 +336,6 @@
         <tr>
             <td>PHP~<cite>[6]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-003</td>
             <td>79</td>
             <td>84.7</td>
             <td>-</td>
@@ -353,7 +348,6 @@
         <tr>
             <td>Self-consistency~<cite>[7]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-003</td>
             <td>67.93</td>
             <td>83.11</td>
             <td>-</td>
@@ -366,7 +360,6 @@
         <tr>
             <td>Active Prompt~<cite>[8]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-003</td>
             <td>65.6</td>
             <td>80.5</td>
             <td>79.8</td>
@@ -379,7 +372,6 @@
         <tr>
             <td>Synthetic Prompt~<cite>[9]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-003</td>
             <td>73.9</td>
             <td>81.8</td>
             <td>80.7</td>
@@ -392,7 +384,6 @@
         <tr>
             <td>FOBAR~<cite>[10]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-003</td>
             <td>79.5</td>
             <td>86</td>
             <td>-</td>
@@ -405,7 +396,6 @@
         <tr>
             <td>Boosted Prompting~<cite>[11]</cite></td>
             <td>fewshot</td>
-            <td>text-davinci-003</td>
             <td>71.6</td>
             <td>-</td>
             <td>-</td>
@@ -418,7 +408,7 @@
         <tr>
             <td>Fewshot CoT~<cite>[2]</cite></td>
             <td>fewshot</td>
-            <td>code-davinci-002</td>
+            <td rowspan="7">code-davinci-002</td>
             <td>60.1</td>
             <td>75.8</td>
             <td>80.1</td>
@@ -431,7 +421,6 @@
         <tr>
             <td>Self-Consistency~<cite>[7]</cite></td>
             <td>fewshot</td>
-            <td>code-davinci-002</td>
             <td>78</td>
             <td>86.8</td>
             <td>87.8</td>
@@ -444,7 +433,6 @@
         <tr>
             <td>PAL~<cite>[12]</cite></td>
             <td>fewshot</td>
-            <td>code-davinci-002</td>
             <td>72</td>
             <td>79.4</td>
             <td>79.6</td>
@@ -457,7 +445,6 @@
         <tr>
             <td>Resprompt~<cite>[13]</cite></td>
             <td>fewshot</td>
-            <td>code-davinci-002</td>
             <td>66.6</td>
             <td>-</td>
             <td>-</td>
@@ -470,7 +457,6 @@
         <tr>
             <td>DIVERSE~<cite>[14]</cite></td>
             <td>fewshot</td>
-            <td>code-davinci-002</td>
             <td>82.3</td>
             <td>87</td>
             <td>88.7</td>
@@ -483,7 +469,6 @@
         <tr>
             <td>Least-to-Most~<cite>[15]</cite></td>
             <td>fewshot</td>
-            <td>code-davinci-002</td>
             <td>68.01</td>
             <td>-</td>
             <td>-</td>
@@ -496,7 +481,6 @@
         <tr>
             <td>Boosted Prompting~<cite>[11]</cite></td>
             <td>fewshot</td>
-            <td>code-davinci-002</td>
             <td>83.3</td>
             <td>88.6</td>
             <td>-</td>
@@ -509,7 +493,7 @@
         <tr>
             <td>Fewshot CoT~<cite>[2]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
+            <td  rowspan="10">gpt-3.5-turbo</td>
             <td>76.5</td>
             <td>81.9</td>
             <td>-</td>
@@ -522,7 +506,6 @@
         <tr>
             <td>Self-consistency~<cite>[7]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>81.9</td>
             <td>86.4</td>
             <td>-</td>
@@ -535,7 +518,6 @@
         <tr>
             <td>MetaCoT~<cite>[16]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>75.1</td>
             <td>88.6</td>
             <td>-</td>
@@ -548,7 +530,6 @@
         <tr>
             <td>Verify CoT~<cite>[17]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>86</td>
             <td>-</td>
             <td>-</td>
@@ -561,7 +542,6 @@
         <tr>
             <td>Active Prompting~<cite>[8]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>81.8</td>
             <td>82.5</td>
             <td>87.9</td>
@@ -574,7 +554,6 @@
         <tr>
             <td>RCoT~<cite>[18]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>84.6</td>
             <td>84.9</td>
             <td>89.3</td>
@@ -587,7 +566,6 @@
         <tr>
             <td>FOBAR~<cite>[10]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>87.4</td>
             <td>87.4</td>
             <td>-</td>
@@ -600,7 +578,6 @@
         <tr>
             <td>Memory-of-Thought~<cite>[19]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
@@ -613,7 +590,6 @@
         <tr>
             <td>Adaptive-consistency~<cite>[20]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>82.7</td>
             <td>85</td>
             <td>83</td>
@@ -626,7 +602,6 @@
         <tr>
             <td>Boosted Prompting~<cite>[11]</cite></td>
             <td>fewshot</td>
-            <td>gpt-3.5-turbo</td>
             <td>87.1</td>
             <td>-</td>
             <td>-</td>
@@ -639,7 +614,7 @@
         <tr>
             <td>Zeroshot CoT~<cite>[21]</cite></td>
             <td>zeroshot</td>
-            <td>text-davinci-002</td>
+            <td >text-davinci-002</td>
             <td>40.5</td>
             <td>63.7</td>
             <td>-</td>
