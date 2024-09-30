@@ -11,11 +11,12 @@
 ## Paper
 | Paper  | Description | Link |
 | ------------- | ------------- | -------------|
-| Generating Chain-of-Thoughts with a Pairwise-Comparison Approach to  Searching for the Most Promising Intermediate Thought  | - | [arXiv](https://arxiv.org/abs/2402.06918#:~:text=In%20this%20paper,%20motivated%20by%20Vapnik's)|
-| Tree of Thoughts: Deliberate Problem Solving with Large Language Models  | - | [arXiv](https://arxiv.org/abs/2305.10601)|
-| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  | - | [arXiv](https://arxiv.org/abs/2201.11903)|
-| Self-Consistency Improves Chain of Thought Reasoning in Language Models  | - | [arXiv](https://arxiv.org/abs/2203.11171#:~:text=Chain-of-thought%20prompting%20combined%20with)|
-| Large Language Model Guided Tree-of-Thought | - | [arXiv](https://arxiv.org/abs/2305.08291)|
+| Generating Chain-of-Thoughts with a Pairwise-Comparison Approach to  Searching for the Most Promising Intermediate Thought (ICML 2024)  | This paper proposes a pairwise comparison-based approach to generating chains of thoughts to find the most promising intermediate thinking. By comparing different thinking steps, the model is able to optimize its reasoning process to more efficiently generate coherent chains of thoughts to solve complex problems. | [arXiv](https://arxiv.org/abs/2402.06918#:~:text=In%20this%20paper,%20motivated%20by%20Vapnik's)|
+| Tree of Thoughts: Deliberate Problem Solving with Large Language Models (NeurIPS 2023)  | This paper introduces a new “thinking tree” model that aims to enhance the problem solving ability of large language models by systematizing the thinking process. By structuring the thinking process into a tree structure, the model makes reasoning more organized, thus increasing the effectiveness and depth of problem solving. | [arXiv](https://arxiv.org/abs/2305.10601)|
+| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (NeurIPS 2022)  | This thesis explores the effectiveness of chain-of-thought prompting to guide reasoning in large language models. It shows that using chain-of-thought prompts significantly enhances the model's reasoning ability, leading it to perform more accurately and reliably when dealing with complex tasks.
+ | [arXiv](https://arxiv.org/abs/2201.11903)|
+| Self-Consistency Improves Chain of Thought Reasoning in Language Models (ICLR 2023)  | This paper discusses how self-consistency improves chain of thought reasoning in language models. By introducing the self-consistency mechanism, the model is able to better correct its own reasoning process, thus generating a more consistent and accurate chain of thought reasoning and improving its ability to handle complex problems. | [arXiv](https://arxiv.org/abs/2203.11171#:~:text=Chain-of-thought%20prompting%20combined%20with)|
+| Large Language Model Guided Tree-of-Thought (2023) | This paper proposes a tree-of-thought structure guided by a large language model, aiming to improve the efficiency and effectiveness of the model in problem solving. By combining the tree structure with the generative capabilities of the model, the research demonstrates how the model can be effectively guided to think deeply, thereby optimizing the problem solving process. | [arXiv](https://arxiv.org/abs/2305.08291)|
 
 
 ## Task and Dataset
